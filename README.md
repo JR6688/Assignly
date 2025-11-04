@@ -10,14 +10,14 @@ Users can create, view, update, and delete tasks in real time using the applicat
 
 **Application feature:**
 
-- Create function - Users can add new tasks with subject, deadline, and status fields.
+- **Create function** - Users can add new tasks with subject, deadline, and status fields.
 
-- View Tasks (Real-Time) - Tasks are automatically updated in real time from Firebase Firestore without page refresh. 
-- Update Tasks - Allows users to modify existing task details (such as name, due date, or status). Changes are instantly updated in the Firestore database. 
-- Remove Tasks - Provides a quick way to remove unwanted tasks from the list. Once deleted, the task is immediately removed from Firestore and the live display. 
-- Offline Caching - Uses Ionic Storage to temporarily save task data locally on the device. When offline, users can still view their last synced task list. Once the connection is restored, live data syncs automatically. 
-- Automatic Synchronization - The app continuously synchronizes Firestore data with the local cache to ensure a smooth and consistent user experience. 
-- Firebase intergration - Securely connects to Firebase Firestore for data management, with test-mode access configured for assignment development.
+- **View Tasks (Real-Time)** - Tasks are automatically updated in real time from Firebase Firestore without page refresh. 
+- **Update Tasks** - Allows users to modify existing task details (such as name, due date, or status). Changes are instantly updated in the Firestore database. 
+- **Remove Tasks** - Provides a quick way to remove unwanted tasks from the list. Once deleted, the task is immediately removed from Firestore and the live display. 
+- **Offline Caching** - Uses Ionic Storage to temporarily save task data locally on the device. When offline, users can still view their last synced task list. Once the connection is restored, live data syncs automatically. 
+- **Automatic Synchronization** - The app continuously synchronizes Firestore data with the local cache to ensure a smooth and consistent user experience. 
+- **Firebase intergration** - Securely connects to Firebase Firestore for data management, with test-mode access configured for assignment development.
 
 ---
 
