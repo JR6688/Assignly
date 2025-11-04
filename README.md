@@ -33,7 +33,7 @@ You can verify the installation by using:
 
 <br>
 
-**Step 2:** Clone the repository
+**Step 2:** Clone the repository:
 - git clone https://github.com/Yzhoo0608/Assignly.git
 
 Then navigate into the project folder:
@@ -41,14 +41,14 @@ Then navigate into the project folder:
 
 <br>
 
- **Step 3:** Install project dependencies
+ **Step 3:** Install project dependencies:
  - npm install
 
 This command will download and set up all the libraries and modules.
 
 <br>
 
-**Step 4:** Run the application
+**Step 4:** Run the application:
 - ionic serve
 Once the compilation completes, the terminal will display a local URL such as:
 
@@ -58,7 +58,7 @@ Now you may open the URL in your browser to view the application.
 
 <br>
 
-**Step 5:** If you want to stop the server
+**Step 5:** If you want to stop the server:
 - Ctrl + C
 Then comfirm with:
 - Y
